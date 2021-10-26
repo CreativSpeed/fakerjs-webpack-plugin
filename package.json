@@ -1,0 +1,21 @@
+{
+	"name": "fakerjs-webpack-plulgin",
+	"version": "1.0.0",
+	"description": "Fake random data injection",
+	"main": "./dist/index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [
+		"webpackplugin",
+		"faker",
+		"replace",
+		"random",
+		"data"
+	],
+	"author": "Bachir Brahimi",
+	"license": "MIT",
+	"dependencies": {
+		"faker": "^5.5.3"
+	}
+}
